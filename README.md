@@ -64,3 +64,18 @@ Un rapport sous format Word accompagné de l'exécutable sous format JAR doivent
 Recommandations :
 
 Il est souhaitable de démarrer la programmation le plus tôt possible. Vous êtes appelés à fournir un rapport complet décrivant les algorithmes développés avec les différentes structures de données employées, le code Java ainsi que les exécutions sur plusieurs données différentes. Une séance de démonstration se déroulera le jour de la remise du rapport pour les 2 phases.
+# capteur d'écran
+![image](https://user-images.githubusercontent.com/82515052/175788886-4c34b10b-ad4b-4089-ad0f-5de32182f9bb.png)
+# Les méthodes classique A*,BFS,DFS
+![image](https://user-images.githubusercontent.com/82515052/175788954-bd025100-9173-4a7f-85b0-adb1ee966e3c.png)
+
+![image](https://user-images.githubusercontent.com/82515052/175789016-1de0d125-b407-4d21-9ded-c73cad1be175.png)
+# Algorithme Génétique
+![image](https://user-images.githubusercontent.com/82515052/175789088-48eb27ef-fb96-4c3c-a60f-dff85a63cd63.png)
+
+# Algorithme PSO
+![image](https://user-images.githubusercontent.com/82515052/175789154-268d6061-a990-4bd6-873d-300a5aacdf03.png)
+![image](https://user-images.githubusercontent.com/82515052/175789179-334ba440-2222-46a7-82e1-d1ec29783e3c.png)
+
+
+
